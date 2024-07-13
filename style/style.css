@@ -1,17 +1,14 @@
-.parent{
-    padding: 25px;
-    background-color: blanchedalmond;
-    display: flex;
-    gap: 30px;
-    justify-content: space-between;
-    height: 350px;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
+/* h3:hover{
+    color: red;
+    background-color: skyblue;
 }
-.child{
-    border: 2px solid aqua;
-    background: aliceblue;
-    padding: 20px;
-    font-size: 28px;
+input:focus{
+    color: blue;
+    outline: 0;
+    border: 5px solid purple;
 }
+a:visited{
+ color: brown;
+} */
+
+/* position */
